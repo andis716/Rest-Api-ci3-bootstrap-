@@ -1,0 +1,13 @@
+{
+  "nama" : "sanjaya",
+  "umur" : 28,
+  "nim" : "08131850",
+  "lulus" : false,
+  "hoby" : [
+              "coding", "gaming", "sport"
+            ], 
+              "pembimbing" : {
+                "pembimbing1" : "andi",
+                "pembimbing2" : "aday"
+              }
+}
